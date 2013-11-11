@@ -1,15 +1,9 @@
 #!/bin/bash
 
-if [ -f ~/bin/paths-10.2.sh ]; then
-	source ~/bin/paths-10.2.sh
-fi
-
 if [ "${android}" = "" ]; then
-	android=~/android/system
+	android=~/cm
 fi
 
-# Add support for Xperia Play touchpads
-cherries+=(49310)
 # camera: Fix preview on SEMC msm7x30 devices
 cherries+=(48673)
 # Don't use fence sync for qcom legacy

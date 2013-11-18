@@ -9,7 +9,7 @@
   <project name="rebelos/android_device_semc_haida" path="device/semc/haida" />
 
 
-  <project name="rebelos/msm7x30-3.4.x-nAa" path="kernel/semc/msm7x30" />
+  <project name="rebelos/msm7x30-3.4.x-nAa" path="kernel/semc/msm7x30" revision="kk44" />
 
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" />
 

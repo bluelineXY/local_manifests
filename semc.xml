@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="rebelos/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="kk44" />
+  <project name="rebelos/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="cm-11.0" />
 
   <project name="rebelos/android_device_semc_mogami-common" path="device/semc/mogami-common" revision="kk44" />
   <project name="rebelos/android_device_semc_anzu" path="device/semc/anzu" />
